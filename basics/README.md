@@ -15,3 +15,5 @@ This directory contains introductory Bash scripts.
 - 4-listmorefiles: list the contents of a directory and hidden files.
 
 - 5-listfilesdigitonly: list the contents of a directory in a long format with numerical users & groups IDs.
+
+- 6-firstdirectory: Creates directory(my_first_directory) /tmp/my_first_directory.
