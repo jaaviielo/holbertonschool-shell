@@ -17,3 +17,6 @@ This directory contains introductory Bash scripts.
 - 5-listfilesdigitonly: list the contents of a directory in a long format with numerical users & groups IDs.
 
 - 6-firstdirectory: Creates directory(my_first_directory) /tmp/my_first_directory.
+
+- 7-movethatfile: move the file betty /tmp/betty /tmp/my_first_directory/.
+
