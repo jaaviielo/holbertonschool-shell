@@ -11,3 +11,5 @@ This directory contains introductory Bash scripts.
 - 2-bring_me_home: Changes the working directory to the user's home directory.
 
 - 3-listfiles: list the contents of a directory in a long format.
+
+- 3-listmorefiles: list the contents of a directory and hidden files.
