@@ -20,3 +20,4 @@ This directory contains introductory Bash scripts.
 
 - 7-movethatfile: move the file betty /tmp/betty /tmp/my_first_directory/.
 
+- 8-firstdelete: deletes betty /tmp/my_first_directory/betty.
