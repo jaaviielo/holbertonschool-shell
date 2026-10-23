@@ -23,3 +23,5 @@ This directory contains introductory Bash scripts.
 - 8-firstdelete: deletes betty /tmp/my_first_directory/betty.
 
 - 9-firstdirdeletion: deletes my_first_directory /tmp/my_first_directory.
+
+- 10-back: changes the working directory to the previous one.
