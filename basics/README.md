@@ -12,4 +12,6 @@ This directory contains introductory Bash scripts.
 
 - 3-listfiles: list the contents of a directory in a long format.
 
-- 3-listmorefiles: list the contents of a directory and hidden files.
+- 4-listmorefiles: list the contents of a directory and hidden files.
+
+- 5-listfilesdigitonly: list the contents of a directory in a long format with numerical users & groups IDs.
