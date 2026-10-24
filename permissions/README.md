@@ -34,3 +34,5 @@ Other users: all the permissions.
 
 - 15-symbolic_link_permissions: changes the owner and the group owner of _hello to vincent and staff respectively.
 
+- 16-if_only: changes the owner of the file hello to vincent only if it is owned by the user guillaume.
+
