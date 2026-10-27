@@ -43,3 +43,7 @@ The `10-love_exponent_breath` script calculates the value of the BREATH environm
 ## 11. Binary to decimal
 
 The `11-binary_to_decimal` script converts the binary number stored in the `BINARY` environment variable to decimal (base 10) and prints the result followed by a newline.
+
+## 12. Combination
+
+The `12-combinations` script prints all lowercase two-letter combinations in alphabetical order, excluding `oo`.
