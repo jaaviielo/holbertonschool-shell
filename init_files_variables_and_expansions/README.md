@@ -51,3 +51,7 @@ The `12-combinations` script prints all lowercase two-letter combinations in alp
 ## 13. Floats
 
 The `13-print_float` script prints the number stored in the `NUM` environment variable with two decimal places using `printf`.
+
+## 14. Decimal to hexadecimal
+
+The `14-decimal_to_hexadecimal` script converts the decimal number stored in the `DECIMAL` environment variable to hexadecimal using `printf`.
