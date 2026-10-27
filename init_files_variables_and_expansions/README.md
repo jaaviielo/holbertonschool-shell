@@ -15,3 +15,7 @@ The `4-global_variables` script displays all environment variables using the `pr
 ## 5. Local variables
 
 The `5-local_variables` script displays all shell variables, environment variables, and functions using the `set` command.
+
+## 6. Create a local variable
+
+The `6-create_local_variable` script creates a local shell variable named `BEST` with the value `School`.
