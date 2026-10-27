@@ -23,3 +23,7 @@ The `6-create_local_variable` script creates a local shell variable named `BEST`
 ## 7. Create a global variable
 
 The `7-create_global_variable` script creates an environment variable named `BEST` with the value `School` using the `export` command.
+
+## 7. Create a global variable
+
+The `7-create_global_variable` script creates an environment variable named `BEST` with the value `School` using the `export` command.
