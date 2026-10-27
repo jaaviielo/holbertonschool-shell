@@ -39,3 +39,7 @@ The `9-divide_and_rule` script divides the value of the `POWER` environment vari
 ## 10. Love exponent breath
 
 The `10-love_exponent_breath` script calculates the value of the BREATH environment variable raised to the power of LOVE and prints the result followed by a newline.
+
+## 11. Binary to decimal
+
+The `11-binary_to_decimal` script converts the binary number stored in the `BINARY` environment variable to decimal (base 10) and prints the result followed by a newline.
