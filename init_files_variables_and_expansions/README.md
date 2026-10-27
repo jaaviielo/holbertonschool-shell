@@ -35,3 +35,7 @@ The `8-true_knowledge` script adds 128 to the value stored in the `TRUEKNOWLEDGE
 ## 9. Divide and rule
 
 The `9-divide_and_rule` script divides the value of the `POWER` environment variable by `DIVIDE` and prints the result followed by a newline.
+
+## 10. Love exponent breath
+
+The `10-love_exponent_breath` script calculates the value of the BREATH environment variable raised to the power of LOVE and prints the result followed by a newline.
