@@ -47,3 +47,7 @@ The `11-binary_to_decimal` script converts the binary number stored in the `BINA
 ## 12. Combination
 
 The `12-combinations` script prints all lowercase two-letter combinations in alphabetical order, excluding `oo`.
+
+## 13. Floats
+
+The `13-print_float` script prints the number stored in the `NUM` environment variable with two decimal places using `printf`.
