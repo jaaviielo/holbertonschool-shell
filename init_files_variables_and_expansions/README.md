@@ -5,3 +5,5 @@
 - 1-hello_you: Prints hello followed by the current Linux username.
 
 - 2-path: Adds /action to the end of PATH.
+
+- 3-paths: Counts the non-empty directory entries in PATH.
