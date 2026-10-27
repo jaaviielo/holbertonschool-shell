@@ -7,3 +7,7 @@
 - 2-path: Adds /action to the end of PATH.
 
 - 3-paths: Counts the non-empty directory entries in PATH.
+
+## 4. Global variables
+
+The `4-global_variables` script displays all environment variables using the `printenv` command.
