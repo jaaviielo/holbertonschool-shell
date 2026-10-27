@@ -31,3 +31,7 @@ The `7-create_global_variable` script creates an environment variable named `BES
 ## 8. True knowledge
 
 The `8-true_knowledge` script adds 128 to the value stored in the `TRUEKNOWLEDGE` environment variable and prints the result followed by a newline.
+
+## 9. Divide and rule
+
+The `9-divide_and_rule` script divides the value of the `POWER` environment variable by `DIVIDE` and prints the result followed by a newline.
